@@ -1,0 +1,12 @@
+name=input("Enter your name")
+age=int(input("Enter your age"))
+sub1=int(input("Enter marks of subject1"))
+sub2=int(input("Enter marks of subject2"))
+sub3=int(input("Enter marks of subject3"))
+Avg=(sub1+sub2+sub3)/3
+print("name:",name)
+print("age:",age)
+print("subject1:",sub1)
+print("subject2:",sub2)
+print("subject3:",sub3)
+print("average:",Avg)
